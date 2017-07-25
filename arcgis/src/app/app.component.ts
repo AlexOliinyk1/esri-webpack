@@ -2,7 +2,7 @@ import { Component, ViewChild } from '@angular/core';
 import { MapComponent } from './map';
 
 @Component({
-  directives: [MapComponent],
+ 
     selector: 'app-root',
     templateUrl: 'app.component.html',
     styleUrls: ['app.component.css']
